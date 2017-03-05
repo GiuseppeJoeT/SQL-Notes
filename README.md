@@ -24,7 +24,12 @@ This material cover the following contents:
 
 ** MySQL **
 
-...
+With well over 10 million installations, MySQL is probably the most popular database
+management system for web servers. Developed in the mid-1990s, it’s now a mature
+technology that powers many of today’s most-visited Internet destinations.
+One reason for its success must be the fact that, like PHP, it’s free to use. But it’s also
+extremely powerful and exceptionally fast—it can run on even the most basic of
+hardware, and it hardly puts a dent in system resources.
 
 ## References ##
 
